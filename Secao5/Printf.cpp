@@ -6,7 +6,7 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
     int NumeroInteiro (12);
-    float NumeroReal (30.56);
+    float NumeroReal (30.56222);
     char caractere ('c');
     string texto{" Texto da String "};
     printf("Valor número inteiro = %d ", NumeroInteiro);
